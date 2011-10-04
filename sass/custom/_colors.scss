@@ -8,7 +8,11 @@
 //$sidebar-bg: desaturate(#eceff5, 8);
 //$sidebar-link-color: saturate(#526f9a, 10);
 //$sidebar-link-color-hover: darken(#7ab662, 9);
-
+$mycolor: #fdfbf7;
+$main-bg: $mycolor;
+$page-bg: $mycolor;
+$footer-bg: $mycolor;
+//$sidebar-bg: $mycolor;
 
 /* To use the light Solarized highlighting theme uncomment the following line */
 //$solarized: light
