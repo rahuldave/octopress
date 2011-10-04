@@ -2,15 +2,16 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://rahuldave.nareau.com
+title: Lair of The Inscrutable Gargoyle
+subtitle: Rahul Dave's home on the web.
+author: Rahul Dave
 simple_search: http://google.com/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
-subscribe_email:
+#subscribe_rss: /atom.xml
+subscribe_rss: http://feeds.feedburner.com/LairOfTheInscrutableGargoyle
+subscribe_email: http://feedburner.google.com/fb/a/mailverify?uri=LairOfTheInscrutableGargoyle&amp;loc=en_US
 # RSS feeds can list your email address if you like
 email:
 
@@ -49,14 +50,14 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: rahuldave
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_count: 4
+twitter_user: rahuldave
+twitter_tweet_count: 3
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
@@ -67,7 +68,7 @@ google_plus_one: true
 google_plus_one_size: medium
 
 # Pinboard
-pinboard_user:
+pinboard_user: rahuldave
 pinboard_count: 3
 
 # Delicious
@@ -75,8 +76,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: rahuldave
+disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-6834381-2
