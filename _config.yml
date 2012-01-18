@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://rahuldave.nareau.com
-title: Lair of The Inscrutable Gargoyle
-subtitle: Rahul Dave's home on the web.
+url: http://econotone.nareau.com
+title: Econotone
+subtitle: At the edge between Economics, Ecology, and the Human Race
 author: Rahul Dave
 simple_search: http://google.com/search
 description:
@@ -90,7 +90,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: rahuldave
+disqus_short_name: econotone
 disqus_show_comment_count: true
 
 # Google Analytics
